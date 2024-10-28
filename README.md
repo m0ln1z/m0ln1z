@@ -51,4 +51,6 @@ I am a Full Stack Developer | IOS Developer <img src="https://media.giphy.com/me
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m0ln1z&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m0ln1z&theme=friendly-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0ln1z&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
