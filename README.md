@@ -27,7 +27,7 @@
 
 I am a Full Stack Developer | IOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. I also do iOS application development.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. I also do iOS application development. Now i am TechLead in Kazakhstan Company "PRODVIG" 
 
 - :seedling: Exploring Technical Content Writing.
 
