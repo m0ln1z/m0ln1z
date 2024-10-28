@@ -33,4 +33,4 @@ I am a Full Stack Developer | IOS Developer <img src="https://media.giphy.com/me
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. I also continue to learn and improve in Swift.
 
-- :mailbox:How to reach me: [![Telegram Bdge](https://img.shields.io/badge/Telegram?style=flat&logo=telegram&logoColor=white)](https://telegram.me/m0ln1zzz)
+- :mailbox:How to reach me: [![Telegram Bdge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://telegram.me/m0ln1zzz)
