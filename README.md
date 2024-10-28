@@ -27,3 +27,10 @@
 
 I am a Full Stack Developer | IOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. I also do iOS application development.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. I also continue to learn and improve in Swift.
+
+- :mailbox:How to reach me: [![Telegram Bdge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=telegram&logoColor=white)](https://telegram.me/m0ln1zzz)
