@@ -13,7 +13,7 @@
 
 ### :man_technologist: About Me
 
-I am a Full Stack Developer | iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
+I am a FullStack Developer | iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan.
 
 - :telescope: Currently working as a Software Engineer, contributing to both frontend and backend development for web applications. I also specialize in iOS application development.
   
