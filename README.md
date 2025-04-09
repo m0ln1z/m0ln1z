@@ -40,4 +40,4 @@ I am a FullStack Developer | iOS Developer <img src="https://media.giphy.com/med
 </div>
 
 ### :fire: My Stats.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0ln1z&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0ln1z&theme=tokyonight&layout=compact&card_width=500&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
