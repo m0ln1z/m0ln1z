@@ -19,7 +19,7 @@ I am a FullStack Developer | iOS Developer <img src="https://media.giphy.com/med
   
 - :seedling: Exploring technical content writing.
 
-- :zap: In my free time, I solve problems on LeetCode, read tech articles, and continue learning and improving in Swift.
+- :zap: In my free time, I solve problems on LeetCode, read tech articles, and continue learning and improving in Swift
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://telegram.me/m0ln1zzz)
 
