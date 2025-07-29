@@ -10,8 +10,6 @@ I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on LeetCode, read tech articles, and continue learning and improving in Swift
 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://telegram.me/m0ln1zzz)
-
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
