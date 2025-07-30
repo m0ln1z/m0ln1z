@@ -33,4 +33,5 @@ I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 ### :fire: My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0ln1z&theme=night&layout=compact&card_width=500&hide_border=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m0ln1z&theme=tokyonight&hide_border=true&border_radius=5&card_width=500)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0ln1z&theme=tokyonight&layout=compact&card_width=500&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
