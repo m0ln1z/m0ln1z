@@ -32,5 +32,5 @@ I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats.
+### :fire: My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0ln1z&theme=tokyonight&layout=compact&card_width=500&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
