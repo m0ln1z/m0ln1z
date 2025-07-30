@@ -1,14 +1,8 @@
 
 
-### About Me
+### Me
 
-I am a FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-- :telescope: Currently working as a Software Engineer, contributing to both frontend and backend development for web applications. I also specialize in iOS application development.
-  
-- :seedling: Exploring technical content writing.
-
-- :zap: In my free time, I solve problems on LeetCode, read tech articles, and continue learning and improving in Swift
+Software Engineer, contributing to both frontend and backend development for web applications. I also specialize in iOS application development.
 
 ### :hammer_and_wrench: Languages and Tools
 
