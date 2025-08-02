@@ -1,7 +1,5 @@
 
 
-### Me
-
 Software Engineer, contributing to both frontend and backend development for web applications. I also specialize in iOS application development.
 
 ### :hammer_and_wrench: Languages and Tools
