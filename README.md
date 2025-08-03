@@ -29,4 +29,4 @@ Software Engineer, contributing to both frontend and backend development for web
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0ln1z&theme=github_dark&layout=compact&card_width=500&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://github.com/m0ln1z/m0ln1z/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/m0ln1z/m0ln1z/blob/output/github-snake-dark.svg)
