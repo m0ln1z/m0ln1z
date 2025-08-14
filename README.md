@@ -2,7 +2,7 @@
 
 Contributing to both frontend and backend development for web & mobile applications. I also specialize in iOS application development
 
-### Languages and Tools
+### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
