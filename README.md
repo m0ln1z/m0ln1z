@@ -24,7 +24,7 @@ Contributing to both frontend and backend development for web & mobile applicati
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
 </div>
 
-###  My Stats
+### My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m0ln1z&theme=github_dark&hide_border=true&border_radius=5&card_width=500)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0ln1z&theme=github_dark&layout=compact&card_width=500&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
