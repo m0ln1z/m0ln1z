@@ -1,26 +1,72 @@
+<h1 align="center">Hi, I'm Artur 👋</h1>
+<p align="center">
+  <b>Full-stack &amp; iOS developer</b> — backends, web apps, iOS/mobile, AI integrations and automation
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m0ln1z&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Contributing to both frontend and backend development for web & mobile applications. I also specialize in iOS application development.
+---
 
-### :hammer_and_wrench: Languages and Tools
+### 🚀 What I build
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" alt="go" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line.svg" title="Nest" alt="Nest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-</div>
+- **Backends & APIs** — NestJS / Express / Go services with MongoDB, PostgreSQL, Redis, S3 (MinIO), WebSockets, JWT auth and admin APIs
+- **Web apps & admin panels** — React + TypeScript + Vite, Next.js, Tailwind, TanStack Query, Radix / shadcn
+- **iOS & mobile** — native Swift apps, Flutter and React Native, Unity iOS builds
+- **AI features** — LLM pipelines (OpenAI, OpenRouter, Claude): OCR & document parsing, prioritization, token/cost/latency analytics
+- **Bots & automation** — Telegram bots (aiogram, Telegraf), parsers, browser extensions (Chrome, VS Code), voice assistant for macOS
+- **DevOps** — Docker Compose, nginx, GitHub Actions CI/CD with safe deploys and rollbacks on Linux servers
 
+### 🔭 Currently working on
 
+- A **health-tech platform**: NestJS + MongoDB backend with an AI pipeline (analysis parsing, health systems prioritization), React admin panel with metrics and AI usage reports, CI/CD to a test server
+- Office & compliance portals (TypeScript, React) and a **Go** backend for a team app
 
-![snake gif](https://github.com/m0ln1z/m0ln1z/blob/output/github-snake-dark.svg)
+---
+
+### 🛠 Tech stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,swift,cs,cpp,php,dart&perline=9" alt="languages" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,flask,graphql&perline=9" alt="backend" />
+</p>
+
+**Frontend & mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,vue,flutter,apple,unity&perline=9" alt="frontend and mobile" />
+</p>
+
+**Databases & storage**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma,supabase,firebase&perline=9" alt="databases" />
+</p>
+
+**DevOps & tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux,bash,git,jest,vitest,figma&perline=10" alt="devops and tools" />
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=m0ln1z&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0ln1z&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=m0ln1z&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/m0ln1z/m0ln1z/blob/output/github-snake-dark.svg" alt="snake" />
+</p>
