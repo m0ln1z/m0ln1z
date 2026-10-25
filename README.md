@@ -18,10 +18,6 @@
 - **Bots & automation** — Telegram bots (aiogram, Telegraf), parsers, browser extensions (Chrome, VS Code), voice assistant for macOS
 - **DevOps** — Docker Compose, nginx, GitHub Actions CI/CD with safe deploys and rollbacks on Linux servers
 
-### 🔭 Currently working on
-
-- A **health-tech platform**: NestJS + MongoDB backend with an AI pipeline (analysis parsing, health systems prioritization), React admin panel with metrics and AI usage reports, CI/CD to a test server
-- Office & compliance portals (TypeScript, React) and a **Go** backend for a team app
 
 ---
 
